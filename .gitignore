@@ -1,0 +1,13 @@
+# Archivos de compilación de Maven
+target/
+*.class
+
+# Configuración de IDEs (NetBeans, IntelliJ, Eclipse, VS Code)
+.nbproject/
+nbproject/
+build/
+.idea/
+*.iml
+.settings/
+.classpath
+.project
